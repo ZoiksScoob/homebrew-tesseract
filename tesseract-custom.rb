@@ -1,4 +1,4 @@
-class Tesseract < Formula
+class TesseractCustom < Formula
   desc "OCR (Optical Character Recognition) engine"
   homepage "https://github.com/tesseract-ocr/"
   url "https://github.com/tesseract-ocr/tesseract/archive/4.1.3.tar.gz"
